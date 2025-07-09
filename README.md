@@ -27,7 +27,7 @@ Se falhar ou timeout ocorrer, a porta está fechada/filtrada
 
 Exemplo de uso:
 
-bash
+
 python pyscanguard.py --target 192.168.1.1 --ports 20-80
 (Verifica se alguma porta entre 20 e 80 responde no IP 192.168.1.1)
 
